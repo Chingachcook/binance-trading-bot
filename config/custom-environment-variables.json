@@ -8,12 +8,12 @@
   },
   "binance": {
     "live": {
-      "apiKey": "BINANCE_LIVE_API_KEY",
-      "secretKey": "BINANCE_LIVE_SECRET_KEY"
+      "apiKey": "DtKIdWO2y7PwllJpJTGxe7FfuUylo2zxFJcaDFTHTBKJGd9KWcvLtTCRxLxLvWMx",
+      "secretKey": "n1JF65f3I4zi0dmAsfTdK33BGIi73X7uLopBgV90T5XPg9zGb1ytVfsl8ZdbPbcw"
     },
     "test": {
-      "apiKey": "BINANCE_TEST_API_KEY",
-      "secretKey": "BINANCE_TEST_SECRET_KEY"
+      "apiKey": "DtKIdWO2y7PwllJpJTGxe7FfuUylo2zxFJcaDFTHTBKJGd9KWcvLtTCRxLxLvWMx",
+      "secretKey": "n1JF65f3I4zi0dmAsfTdK33BGIi73X7uLopBgV90T5XPg9zGb1ytVfsl8ZdbPbcw"
     }
   },
   "redis": {
